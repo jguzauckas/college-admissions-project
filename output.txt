@@ -1,0 +1,20 @@
+The highest number of applications was University of California-Los Angeles with 72,676 student(s) applying.
+The lowest number of applications was Goddard College with 4 student(s) applying.
+
+The highest number of admissions was Drexel University with 35,815 student(s) admitted.
+The lowest number of admissions was Goddard College with 4 student(s) admitted.
+
+The highest number of enrollments was Texas A & M University-College Station with 10,241 student(s) enrolling.
+The lowest number of enrollments was Goddard College with 2 student(s) enrolling.
+
+The college with the highest rate of admissions is University of Pikeville with 1,804 applications and 1,804 admissions resulting in 100.00% of applicants being admitted.
+The college with the lowest rate of admissions is Stanford University with 38,828 applications and 2,208 admissions resulting in 5.69% of applicants being admitted.
+
+The college with the highest rate of enrollments is Shimer College with 8 admissions and 8 enrollments resulting in 100.00% of admitted students enrolling.
+The college with the lowest rate of enrollments is The King's College with 2,158 admissions and 127 enrollments resulting in 5.89% of admitted students enrolling.
+
+Which college would you like to look at? University of Connecticut
+
+University of Connecticut had 27,479 applications, 14,745 admissions, and 3,755 enrollments.
+At University of Connecticut, 53.66% of students that applied were admitted.
+At University of Connecticut, 25.47% of students that were admitted, enrolled.

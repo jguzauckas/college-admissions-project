@@ -1,12 +1,3 @@
-# In this project you are going to evaluate the admissions data of over 1,000 colleges.
-# The file "output.txt" is a sample output that I produced to show you what we expect
-# your program's output to look like.
-
-# One clarification on the definitions at play here:
-#   - Applications refer to the number of students that submitted an application to the college.
-#   - Admissions refer to the number of applications that the college accepted to be students.
-#   - Enrollments refer to the number of students that enrolled to attend the college.
-
 # The information about these colleges is provided to you in a .json file called "colleges.json".
 # In order to load this information, you will need a "College" class that has the following variables:
 #   - _name: a string that holds the name of the college.
